@@ -19,7 +19,7 @@
 <a href="https://github.com/username">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" height="40"/>
 </a>
-<a href="https://www.linkedin.com/in/username/www.linkedin.com/in/rahma-anggana-rarastyasa">
+<a href="www.linkedin.com/in/rahma-anggana-rarastyasa">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40"/>
 </a>
 <a href="https://www.instagram.com/username/">
