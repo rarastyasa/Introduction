@@ -29,7 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/512/tableau-software.png" alt="Tableau" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/512/power-bi.png" alt="Power BI" width="40" height="40"/> 
-  <img src="https://seeklogo.com/images/L/looker-studio-logo-35D40BFCB5-seeklogo.com.png" alt="Looker Studio" width="40" height="40"/> 
 </p>
 
 ---
