@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/rahma-anggana-rarastyasa/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40"/>
 </a>
-<a href="https://www.instagram.com/username/">
+<a href="https://www.instagram.com/rarastyasa_ra/">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40"/>
 </a>
 <a href="https://medium.com/@username">
