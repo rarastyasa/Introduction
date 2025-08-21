@@ -8,7 +8,29 @@
 - 📊 Currently learning **Machine Learning, Data Visualization (Power BI, Tableau), and Python for Analytics**  
 - ✉️ Reach me at: [rahmaanggana04@gmail.com]  
 - 🔗 Connect with me on [LinkedIn](www.linkedin.com/in/rahma-anggana-rarastyasa/)  
-- 🤝 Open to collaborating on **data-driven projects**  
+- 🤝 Open to collaborating on **data-driven projects**
+
+---
+
+- ## 🛠️ Skills  
+
+### 💻 Languages  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="40" height="40"/>
+</p>
+
+### ⚙️ Softwares & Tools  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> 
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/512/tableau-software.png" alt="Tableau" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/512/power-bi.png" alt="Power BI" width="40" height="40"/> 
+  <img src="https://seeklogo.com/images/L/looker-studio-logo-35D40BFCB5-seeklogo.com.png" alt="Looker Studio" width="40" height="40"/> 
+</p>
 
 ---
 
