@@ -1,16 +1,14 @@
-# Introduction
-
 # Hi, I'm Rara 👋  
 
 ![Profile views](https://komarev.com/ghpvc/?username=rararastyasa&color=green)
 
 ## 👩‍💻 About me
 - 🌏 Based in Indonesia  
-- 🎓 Industrial Engineering graduate with strong interest in **Data Analytics & Quality Engineering**  
+- 🎓 Industrial Engineering graduate with strong interest in **Data Analytics & Data Science**  
 - 📊 Currently learning **Machine Learning, Data Visualization (Power BI, Tableau), and Python for Analytics**  
-- ✉️ Reach me at: [your.email@gmail.com]  
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-- 🤝 Open to collaborating on **data-driven projects & process improvement**  
+- ✉️ Reach me at: [rahmaanggana04@gmail.com]  
+- 🔗 Connect with me on [LinkedIn](www.linkedin.com/in/rahma-anggana-rarastyasa/)  
+- 🤝 Open to collaborating on **data-driven projects**  
 
 ---
 
